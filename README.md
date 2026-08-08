@@ -38,9 +38,13 @@ Meu objetivo é conquistar uma oportunidade como **Analista de Segurança da Inf
 - 🔐 Segurança da Informação
 - ☁️ Cloud Computing
 
-<!-- ====================================================== -->
-<!-- TECHNOLOGIES -->
-<!-- ====================================================== -->
+<h2 align="center">💻 Tecnologias e Ferramentas</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,github,vscode,mysql,docker,windows"/>
+
+</p>
 
 <!-- ====================================================== -->
 <!-- GITHUB STATS -->
