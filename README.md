@@ -92,9 +92,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosklg&la
 | ⬜ | Azure |
 | ⬜ | AWS |
 
-<!-- ====================================================== -->
-<!-- CERTIFICATIONS -->
-<!-- ====================================================== -->
+# 📜 Certificações
+
+| Status | Certificação |
+|--------|--------------|
+| ✅ | Google Cybersecurity Professional Certificate |
+| ⏳ | Microsoft SC-900 |
+| ⏳ | Microsoft AZ-900 |
+| ⏳ | Cisco CCNA |
+| ⏳ | CompTIA Security+ |
 
 <!-- ====================================================== -->
 <!-- CONTACT -->
