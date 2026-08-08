@@ -46,9 +46,23 @@ Meu objetivo é conquistar uma oportunidade como **Analista de Segurança da Inf
 
 </p>
 
-<!-- ====================================================== -->
-<!-- GITHUB STATS -->
-<!-- ====================================================== -->
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=carlosklg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosklg&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=carlosklg&theme=tokyonight"/>
+
+</p>
 
 <!-- ====================================================== -->
 <!-- PROJECTS -->
