@@ -4,9 +4,11 @@
 
 
 
-<!-- ====================================================== -->
-<!-- TYPING -->
-<!-- ====================================================== -->
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Carlos+Candido;Cybersecurity+Student;Blue+Team+|+SOC;Python+|+Linux+|+Java;Google+Cybersecurity+Student;Always+Learning..." />
+
+</p>
 
 <!-- ====================================================== -->
 <!-- ABOUT -->
