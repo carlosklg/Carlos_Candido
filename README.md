@@ -102,9 +102,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosklg&la
 | ⏳ | Cisco CCNA |
 | ⏳ | CompTIA Security+ |
 
-<!-- ====================================================== -->
-<!-- CONTACT -->
-<!-- ====================================================== -->
+# 📫 Contato
+
+- 💼 LinkedIn: *(www.linkedin.com/in/carlos-fabio-)*
+- 📧 E-mail: *(carlos.candido.tech@gmail.com)*
 
 # 🛡️ Cybersecurity Roadmap
 
