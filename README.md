@@ -64,9 +64,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosklg&la
 
 </p>
 
-<!-- ====================================================== -->
-<!-- PROJECTS -->
-<!-- ====================================================== -->
+# 🚀 Projetos em Destaque
+
+| Projeto | Objetivo |
+|----------|----------|
+| 🐍 Python Security Tools | Ferramentas em Python voltadas para Segurança da Informação. |
+| 🐧 Linux Labs | Laboratórios práticos de Linux para administração e segurança. |
+| 🌐 Network Labs | Estudos de redes utilizando Cisco Packet Tracer. |
+| 🛡️ TryHackMe Write-ups | Resolução e documentação de laboratórios da plataforma TryHackMe. |
+| 📊 SIEM Labs | Estudos de monitoramento e Blue Team. |
+| ☁️ DevSecOps Labs | Integração entre desenvolvimento e segurança. |
 
 <!-- ====================================================== -->
 <!-- ROADMAP -->
