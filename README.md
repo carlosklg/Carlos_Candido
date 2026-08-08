@@ -10,9 +10,33 @@
 
 </p>
 
-<!-- ====================================================== -->
-<!-- ABOUT -->
-<!-- ====================================================== -->
+# 👋 Olá, eu sou Carlos Candido
+
+Sou estudante de **Cibersegurança** apaixonado por tecnologia e Segurança da Informação.
+
+Atualmente estou construindo um portfólio prático voltado para **Blue Team**, **SOC**, **Resposta a Incidentes** e **Automação com Python**.
+
+Meu objetivo é conquistar uma oportunidade como **Analista de Segurança da Informação**, contribuindo para ambientes seguros através de monitoramento, análise e resposta a incidentes.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- 🎓 Tecnólogo em Cibersegurança — Universidade Pitágoras UNOPAR
+- 🎓 Análise e Desenvolvimento de Sistemas — Centro Universitário Tiradentes (UNIT-PE)
+
+---
+
+## 📚 Atualmente estudando
+
+- 🟡 Google Cybersecurity Professional Certificate
+- 🟡 Microsoft SC-900
+- 🟡 Microsoft AZ-900
+- 🐍 Python
+- 🐧 Linux
+- 🌐 Redes de Computadores
+- 🔐 Segurança da Informação
+- ☁️ Cloud Computing
 
 <!-- ====================================================== -->
 <!-- TECHNOLOGIES -->
