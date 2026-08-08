@@ -75,9 +75,22 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosklg&la
 | 📊 SIEM Labs | Estudos de monitoramento e Blue Team. |
 | ☁️ DevSecOps Labs | Integração entre desenvolvimento e segurança. |
 
-<!-- ====================================================== -->
-<!-- ROADMAP -->
-<!-- ====================================================== -->
+# 🛣️ Roadmap de Estudos
+
+| Status | Tecnologia |
+|--------|------------|
+| ✅ | Git e GitHub |
+| ✅ | Linux |
+| 🟡 | Python |
+| 🟡 | Google Cybersecurity |
+| ⬜ | Active Directory |
+| ⬜ | Windows Server |
+| ⬜ | SIEM |
+| ⬜ | Wazuh |
+| ⬜ | Splunk |
+| ⬜ | Docker |
+| ⬜ | Azure |
+| ⬜ | AWS |
 
 <!-- ====================================================== -->
 <!-- CERTIFICATIONS -->
