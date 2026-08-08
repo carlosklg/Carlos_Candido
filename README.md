@@ -49,12 +49,8 @@ Meu objetivo é conquistar uma oportunidade como **Analista de Segurança da Inf
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=carlosklg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosklg&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosklg&theme=tokyonight" width="95%" alt="GitHub Profile Details">
+</p>
 
 </p>
 
